@@ -1,0 +1,13 @@
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.exe
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.deps.json
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.runtimeconfig.json
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.runtimeconfig.dev.json
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.dll
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\bin\Debug\netcoreapp3.1\traductor.pdb
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.csprojAssemblyReference.cache
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.AssemblyInfoInputs.cache
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.AssemblyInfo.cs
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.dll
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.pdb
+C:\Users\Lautaro\Desktop\Clip\Tercer Clase\Ejercicio 1\Clip-EjercicioClase3\traducor-project\traductor\obj\Debug\netcoreapp3.1\traductor.genruntimeconfig.cache
