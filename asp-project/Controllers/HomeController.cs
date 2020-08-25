@@ -23,7 +23,12 @@ namespace asp_project.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Tecnologías()
+        {
+            return View();
+        }
+
+        public IActionResult Enlaces()
         {
             return View();
         }

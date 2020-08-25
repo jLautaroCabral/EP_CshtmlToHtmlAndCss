@@ -1,6 +1,8 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;
@@ -63,9 +65,117 @@ body {
   margin-bottom: 60px;
 }
 .footer {
+  background: #fff;
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
+
+}
+
+/*  Por mua   */
+:root {
+
+    --green: rgba(40,167,69, 0.5);
+    --red: rgba(220,53,69, 0.5);
+    --yellow: rgba(255,193,7, 0.5);
+    --blue: rgba(23,162,184, 0.5);
+
+    --green-a: rgba(40,167,69, 0.5);
+    --red-a: rgba(220,53,69, 0.5);
+    --yellow-a: rgba(255,193,7, 0.5);
+    --blue-a: rgba(23,162,184, 0.5);
+
+}
+
+.rompecabezas {
+    display: grid;
+    grid-template: repeat(4, 1fr) / repeat(7, 1fr);
+    grid-gap: 10px;
+    height: 25em;
+    grid-template-areas: "react angular angular stylus css css vue"
+                         "react html html postcss css css vue"
+                         "materialize html html js js sass tailwind"
+                         "less bootstrap bootstrap js js jquery jquery";
+}
+#cheems {
+    width: 18em;
+    padding: 1em;
+    background: #fff;
+    position: fixed;
+    z-index: 3;
+    cursor: pointer;
+    transition-duration: 1s;
+    box-shadow: 0px 0px 35px -5px rgba(0,0,0,0.65);
+    border-radius: 10px;
+}
+#cheems:hover {
+    opacity: 0;
+}
+
+.react {grid-area: react}
+.angular {grid-area: angular}
+.stylus {grid-area: stylus}
+.css {grid-area: css}
+.vue {grid-area: vue}
+.html {grid-area: html}
+.postcss {grid-area: postcss}
+.materialize {grid-area: materialize}
+.javascript {grid-area: js}
+.sass {grid-area: sass}
+.tailwind {grid-area: tailwind}
+.less {grid-area: less}
+.bootstrap {grid-area: bootstrap}
+.jquery {grid-area: jquery}
+
+.item {
+    background: rgba(250, 0, 0, 0.5);
+    display: flex;
+    padding: 10px;
+    align-items: flex-end;
+    transition-duration: 1s;
+}
+.item:hover {
+    transform: scale(1.1);
+    text-decoration: none;
+    z-index: 1;
+}
+
+.bg-green { background: var(--green)}
+.bg-red { background: var(--red)}
+.bg-yellow { background: var(--yellow)}
+.bg-blue { background: var(--blue)}
+
+@media (max-width: 768px) {
+    .rompecabezas {
+        grid-template: repeat(8, 1fr) / repeat(3, 1fr);
+        grid-template-areas: "jquery sass postcss"
+                             "jquery html html"
+                             "less html html"
+                             "css css vue"
+                             "css css vue"
+                             "bootstrap bootstrap tailwind"
+                             "react js js"
+                             "react js js"
+                             "stylus angular angular"
+    }
+    #tecnologias {
+        height: 100vh;
+    }
+    .rompecabezas {
+        height: 80%;
+    }
+    footer {
+        position: fixed;
+        bottom: -1em;
+    }
+}
+@media (max-width: 420px) {
+    .rompecabezas {
+        height: 75%;
+    }
+    footer {
+        bottom: -5em;
+    }
 }
