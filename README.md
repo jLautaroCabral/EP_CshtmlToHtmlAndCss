@@ -1,4 +1,4 @@
-# Clip-EjercicioClase3
+# CLIP-tp2
 Repositorio del de la clase 3 del programa CLIP
 
 Como justo estoy estudiando ASP quise hacer la entrega con ASP, de todas formas entiendo que quizás sólo querían ver HTML, CSS y nada más.
