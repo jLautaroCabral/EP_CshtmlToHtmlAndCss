@@ -1,12 +1,11 @@
-# CLIP-tp2
-Repositorio del de la clase 3 del programa CLIP
+# EP_CshtmlToHtmlAndCss
+###### The initials EP in any repository stand for Educational Project. These are course projects and personal experiments for learning. 
+A long time ago I was asked to complete an academic exercise with HTML and CSS, I wanted to do it with ASP but in order not to get out of the requirement I also made a translator that translated the front end of my ASP project to HTML and CSS.
+That's why I made a small additional program that translates the ASP project to just a few HTML and CSS files.
 
-Como justo estoy estudiando ASP quise hacer la entrega con ASP, de todas formas entiendo que quizás sólo querían ver HTML, CSS y nada más.
-Por eso mismo hice un pequeño programa adicional que traduzca el proyecto ASP a sólo unos archivos HTML y CSS
+You can run the translator to test the translation and see the clean HTML and CSS generated.
 
-Puedes ejecutar el traductor para probar la traducción y ver en limpio el HTML y CSS generado
+The code of the translator is in the folder translator-project
+ASP project code is in the asp-project folder
 
-El código del traductor está en la carpeta traductor-project
-El código del proyecto ASP está en la carpeta asp-project
-
-El código del traductor está comentado!
+The translator code is commented!
